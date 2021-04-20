@@ -1,0 +1,23 @@
+Timer	KEYWORD1
+#######################################
+# Syntax Coloring Map For WiFi
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+Timer	KEYWORD1
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Timer	KEYWORD1	
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setTimer	KEYWORD2
+timerOn		KEYWORD2
+timerOff	KEYWORD2
+resetTimer	KEYWORD2
+timerSaida	KEYWORD2
+#######################################
